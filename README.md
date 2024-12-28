@@ -41,7 +41,7 @@ Clé API Claude
 Installation
 ------------
 1. Clonez ce projet ou téléchargez les fichiers nécessaires :
-   git clone https://github.com/votre-utilisateur/votre-repo.git
+   git clone https://github.com/richard-lam-webdev/tp-ia-generation-cours.git
    cd votre-repo
 
 2. Assurez-vous d'avoir un environnement Python correctement configuré.
